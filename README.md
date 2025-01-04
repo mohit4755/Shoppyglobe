@@ -7,6 +7,8 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
+## Git:https://github.com/mohit4755?tab=repositories
+
 ## 🌍 ShoppyGlobe
 **ShoppyGlobe is a next-generation e-commerce platform designed to provide a seamless shopping experience. Built using React and Vite, it offers lightning-fast performance, a clean interface, and responsive design for users on any device.**
 
@@ -34,7 +36,7 @@ Currently, two official plugins are available:
 To run ShoppyGlobe locally, follow these steps:
 
 **Clone the Repository**:
-git clone <repository-url>
+git clone <https://github.com/mohit4755/Shoppyglobe.git>
 cd shoppyglobe
 
 **Install Dependencies**:
